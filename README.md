@@ -1,5 +1,3 @@
-# Wholesale_Custome_Segmentation
-
 # Business Goal:
 Identify customer segments in the whole sale data using various unsupervised learning techniques.
 
